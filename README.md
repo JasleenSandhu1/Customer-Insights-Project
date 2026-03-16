@@ -9,29 +9,29 @@ The business lacked clear visibility into which product categories and customer 
 
 ## Key Questions
 The analysis answers the following questions:
--Which product categories generate the most revenue?
--How do customer spending patterns vary across demographics and segments?
--What is the impact of subscription adoption on revenue?
--How does revenue vary across seasons and spending ranges?
--Do discounts, shipping, or payment methods influence purchasing behavior?
+- Which product categories generate the most revenue?
+- How do customer spending patterns vary across demographics and segments?
+- What is the impact of subscription adoption on revenue?
+- How does revenue vary across seasons and spending ranges?
+- Do discounts, shipping, or payment methods influence purchasing behavior?
 
 ## Approach & Methodology
-### Data Preparation
+### Data Preparation (Python)
 Using Python, cleaned and validated transaction data, checked for missing or duplicate records, and reviewed key variables.
 
 ### Data Analysis (SQL)
--Calculated revenue by category, customer segment, season, and spending range.
--Evaluated subscription adoption, discounts, shipping, and payment method usage.
+- Calculated revenue by category, customer segment, season, and spending range.
+- Evaluated subscription adoption, discounts, shipping, and payment method usage.
 
 ### Data Visualization (Power BI)
 Developed an interactive dashboard to visualize trends, high-performing categories, and customer behavior patterns.
 
 ## Key Findings
--Clothing drives 35% of total revenue and performs consistently across all seasons.
--Non-subscribers contribute 74% of high-value sales, and only 26.28% of high-spending customers are subscribed.
--Fall is the peak season, while summer shows the lowest revenue.
--$40–$80 transactions generate the largest share of revenue, highlighting key pricing opportunities.
--Most purchases occur at full price, and free shipping is the preferred method.
+- Clothing drives 45% of total revenue and performs consistently across all seasons.
+- Non-subscribers contribute 74% of high-value sales, and only 26.28% of high-spending customers are subscribed.
+- Fall is the peak season, while summer shows the lowest revenue.
+- $40–$80 transactions generate the largest share of revenue, highlighting key pricing opportunities.
+- Most purchases occur at full price, and free shipping is the preferred method.
 
 ## Tools & Technologies
 
