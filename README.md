@@ -16,7 +16,7 @@ The analysis answers the following questions:
 -Do discounts, shipping, or payment methods influence purchasing behavior?
 
 ## Approach & Methodology
-###Data Preparation
+### Data Preparation
 Using Python, cleaned and validated transaction data, checked for missing or duplicate records, and reviewed key variables.
 
 ### Data Analysis (SQL)
