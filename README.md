@@ -40,9 +40,9 @@ Developed an interactive dashboard to visualize trends, high-performing categori
 - Power BI – for interactive dashboards and visualizations
 
 ## Business Impact
-- This analysis provides actionable insights that help the business:
--- Optimize product strategy by focusing on top-performing categories
--- Enhance subscription adoption among high-value customers
--- Align marketing and pricing strategies with seasonal demand
--- Make informed decisions using an interactive dashboard
+This analysis provides actionable insights that help the business:
+- Optimize product strategy by focusing on top-performing categories
+- Enhance subscription adoption among high-value customers
+- Align marketing and pricing strategies with seasonal demand
+- Make informed decisions using an interactive dashboard
 
